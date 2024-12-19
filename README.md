@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @mrshinesb (Mr Shine SB)
+- 💻 My Favorite OS: Kali Linux 🐉
+- ☁️ Proficient Cloud Server: au.cloudlogin.co 🔐
+{{__
+🔒 Secure Access: SSH-based management ensures top-tier security.
+⚡ High Performance: Optimized for seamless and efficient operations.
+🌐 Reliability: Always up, always ready to deploy.
+__}}
 - 👀 I’m interested in WebEngineering__PHP_is my Soulmate.
 - 🌱 I’m currently learning Laravel 11 Framework and Flutter Dart Programing Language.
 - 💞️ I’m looking to collaborate on Laravel/ERP-related feature
