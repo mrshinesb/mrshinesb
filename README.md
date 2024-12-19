@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @mrshinesb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @mrshinesb (Mr Shine SB)
+- 👀 I’m interested in WebEngineering__PHP_is my Soulmate.
+- 🌱 I’m currently learning Laravel 11 Framework and Flutter Dart Programing Language.
+- 💞️ I’m looking to collaborate on Laravel/ERP-related feature
+- 📫 Contact me @00959951522244 / shine_sb@yahoo.com !
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Siri Lover  {{ __
+- 
+My fun interaction with Siri:
+
+Me: "Siri, is there a connection between the heart and music?"
+
+Siri: "Absolutely! Your heart sets the rhythm, and music matches the beat. Coincidence? I think not!"
+
+Me: "So, music is like the heartbeat of the universe?"
+
+Siri: "Exactly. And just like your favorite song, it keeps going... unless you pause it. But please don’t pause your heart." 💓🎶
+__}}.
 
 <!---
 mrshinesb/mrshinesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
